@@ -1,0 +1,8 @@
+- Created React Project Using
+ - create-react-app
+- For Styling 
+ - Tailwind Css
+- For Routing
+ - react-router-dom
+- For State Management
+ - Redux
